@@ -87,6 +87,8 @@
     <icon drawable="@drawable/themed_icon_device_info" package="ru.andr7e.deviceinfohw" />
     <icon drawable="@drawable/themed_icon_dialer" package="com.android.contacts.activities.twelvekeydialer" />
     <icon drawable="@drawable/themed_icon_dialer" package="com.android.incallui" />
+    <icon drawable="@drawable/themed_icon_dialer" package="com.android.phone" />
+    <icon drawable="@drawable/themed_icon_dialer" package="com.android.dialer" />
     <icon drawable="@drawable/themed_icon_dialer" package="com.google.android.dialer" />
     <icon drawable="@drawable/themed_icon_digital_wellbeing" package="com.google.android.apps.wellbeing" />
     <icon drawable="@drawable/themed_icon_discord" package="com.discord" />
